@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Sejal- Badminton, Club Member
-=======
 Samay- Swimming, Club Member
->>>>>>> feature-update
 Rakesh - Football, Club Secretary
