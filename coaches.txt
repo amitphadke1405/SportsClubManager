@@ -3,3 +3,4 @@ Name : Sagar Joshi  Sport : Football
 Name : Snehal Jadhav Sport : Badminton
 Name : Omkar Pandey Sport : Wrestling
 Name : Omkar Niwalkar Sport : Chess
+Name : Vidya Bapat   Sport : Cycling
