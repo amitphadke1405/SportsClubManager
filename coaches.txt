@@ -1,3 +1,4 @@
 Coaches : 
 Name : Sagar Joshi  Sport : Football
 Name : Snehal Jadhav Sport : Badminton
+Name : Omkar Pandey Sport : Wrestling
